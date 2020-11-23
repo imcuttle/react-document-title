@@ -1,6 +1,9 @@
 React Document Title
 ====================
 
+**Note: Forked from https://github.com/gaearon/react-document-title**
+**Upgrade dependencies for fix https://github.com/gaearon/react-document-title/issues/62 **
+
 Provides a declarative way to specify `document.title` in a single-page app.  
 This component can be used on server side as well.
 
@@ -9,7 +12,7 @@ Built with [React Side Effect](https://github.com/gaearon/react-side-effect).
 ## Installation
 
 ```
-npm install --save react-document-title
+npm install --save @moyuyc/react-document-title
 ```
 
 Dependencies: React >= 0.13.0
